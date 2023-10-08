@@ -1,1 +1,115 @@
-# resume
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>RESUME</title>
+        <link rel="stylesheet" href="Resume Styles.css">
+    </head>
+    <body>
+        <h1 align="center">Resume</h1>
+        <h2>Mr. Nikhil Kattaguri</h2>
+        <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSDbFVrzLTsnSkrdHjhsVcqpjDSzcLBCVfLvWtSkbJgzTnQSXfSWHcDVzLcMnRTflsvSVmJM" target="blank">nikhilkattaguri27@gmail.com</a><br><br>
+        <a href="https://www.linkedin.com/in/nikhilkattaguri/" target="black">Linkedin</a><br><br>
+        Mobile : +916302515191
+        <h3 align="center">CAREER OBJECTIVE</h3>
+        <p align="center">Aspiring for a position where I can utilize my skills and abilities and enrich my knowledge to get
+            professional growth in my career.</p>
+        <h3 align="center">ACADAMIC DETAILS</h3>
+        <table  align="center" border="1" cellspacing="0" cellpadding="10">
+            <tr>
+                <th>DEGREE/BOARD</th>
+                <th>EDUCATIONAL INSTITUTE</th>
+                <th>YEAR OF PASSING</th>
+                <th>SCORE</th>
+            </tr>
+            <tr>
+                <td>Bachelor of Technology in Mechanical Engineering</td>
+                <td>Sreenidhi Institute of science and technology, Hyderabad</td>
+                <td>2023</td>
+                <td>7.38</td>
+            </tr>
+            <tr>
+                <td>Telangana State Board of Intermediate Education (TSBIE)</td>
+                <td>Narayana junior college, Hyderabad (MPC)</td>
+                <td>2019</td>
+                <td>883</td>
+            </tr>
+            <tr>
+                <td>Board of Secondary Education, Telangana (SSC)</td>
+                <td>Narayana concept school, Hyderabad</td>
+                <td>2017</td>
+                <td>9.0</td>
+            </tr>
+        </table>
+        <h3 align="center">TECHNICAL SKILLS</h3>
+        
+<ul type="disc">
+    <li>Programming Languages</li>
+      <ol type="1">
+      <li>C Language</li>
+      <li>Python</li>
+      <li>Java Script</li>
+      <li>SQL</li>
+      </ol>
+    <li>Web Technologies</li>
+      <ol type="1">
+      <li>HTML</li>
+      <li>CSS</li>
+      </ol>
+    <li>Frameworks and Libraries</li>
+      <ol type="1">
+      <li>React.js</li>
+      </ol>
+    <li>Designing softwares</li>
+      <ol type="1">
+      <li>Auto CAD (CREO Parametric)</li>
+      <li>ANYSYS</li>
+      </ol>
+    <li>Applications</li>
+      <ol type="1">
+      <li>MS Office</li>
+      </ol>
+  </ul>
+
+  <h3 align="center">INTERNSHIP</h3>
+  <p>
+    <ul type="disc">
+    <li><b>Full Stack developer trainee, Vermac Labs - july 2023 to dec 2023</b></li>
+        
+            Learning Fullstack course and working on it.<br><br>
+        
+    <li><b>ANSYS, The National Small Industries Corporation LTD. Technical Service Center - Sep 2022 to Oct 2022</b></li>
+        
+            Online Industrial Traing on ANSYS<br>
+            Certified from Govt of India.<br>
+            Problem on each topic taken on ANSYS Clasic as well as Ansys Workbench.<br><br>
+        
+    <li><b>3D Printing and Designing, Quanint TechSoft Pvt Ltd - Nov 2021 to Dec 2021</b></li>
+        
+            Problem on Connecting Rod.<br>
+            Additive Manufacturing.<br>
+            Analysed problems, identified solutions and made decisions.<br><br>
+        
+    </ul>
+    <h3 align="center">PROJECT</h3>
+        <ul type="disc">
+        <li><b>Design of Electro-Magnetic Braking System for Automobiles.</b></li>
+            
+               In this project, We used Electromagnetic brakes that use electromagnetic force 
+               to stop or slow down the vehicle.<br><br>
+            
+        <li><b>Frabrication of Regenerative Braking system.</b></li>
+            
+                This project is about an energy recovery mechanism that improves the efficiency of hybrid and electric vehicle 
+                by convertng the Kinetic Energy (K.E) of a moving vehicle into electrical energy during braking.<br><br>
+            
+        </ul>
+    </p>
+    <h3 align="center">DECLARATION</h3>
+        <p align="center">I hereby declare that all statements made are true to the best of my knowledge and belief.</p>
+
+        <p>Hyderabad</p><p align="right">K.Nikhil</p>
+
+    </body>
+    </html>
